@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/watchify/static/css/main.7064deb2.css",
+    "main.js": "/watchify/static/js/main.af3b3ab9.js",
+    "index.html": "/watchify/index.html",
+    "main.7064deb2.css.map": "/watchify/static/css/main.7064deb2.css.map",
+    "main.af3b3ab9.js.map": "/watchify/static/js/main.af3b3ab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.af3b3ab9.js"
+  ]
+}
